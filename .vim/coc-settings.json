@@ -1,0 +1,12 @@
+{
+  "suggest.autoTrigger": "none",
+  "diagnostic.enable": true,
+  "codeLens.enable": true,
+  "coc.preferences.formatOnSaveFiletypes": [],
+  "languageserver": {
+    "zls": {
+      "command": "/Users/ashishbhattarai/.zig-tools/zls/zig-out/bin/zls",
+      "filetypes": ["zig"]
+    }
+  }
+}
